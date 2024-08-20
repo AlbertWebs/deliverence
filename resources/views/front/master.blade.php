@@ -388,30 +388,7 @@
       </div>
     </footer>
     <!-- Footer -->
-    <!-- Color Switcher -->
-    <div id="theme-panel" class="close-theme-panel">
-      <!--Panel Button -->
-      <a class="panel-button">
-        <i class="fa  fa-life-ring"></i>
-      </a>
-      <div class="segment">
-        <h4 class="condensed semibold uppercase no-margin no-padding">Color Switcher</h4>
-      </div>
-      <!-- Colors -->
-      <div class="segment">
-        <a title="blue" class="switcher blue-bg"></a>
-        <a title="asphalt" class="switcher asphalt-bg"></a>
-        <a title="green" class="switcher green-bg"></a>
-        <a title="orange" class="switcher orange-bg"></a>
-        <a title="purple" class="switcher purple-bg"></a>
-        <a title="red" class="switcher red-bg"></a>
-        <a title="s-green" class="switcher s-green-bg"></a>
-        <a title="s-blue" class="switcher s-blue-bg"></a>
-        <a title="gray" class="switcher gray-bg"></a>
-        <a title="p-green" class="switcher p-green-bg"></a>
-      </div>
-    </div>
-    <!-- End Color Switcher -->
+
     <!-- jQuery Lib -->
     <script src="{{asset('theme/js/jquery.min.js')}}"></script>
     <!-- Bootstrap Js -->

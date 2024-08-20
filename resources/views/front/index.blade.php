@@ -202,13 +202,13 @@
             <rs-slide style="position: absolute;" data-key="rs-1" data-title="Web Show" data-thumb="{{asset('theme/rs-plugin/assets/zmain-slider-1-1536x864-100x100.jpg')}}" data-anim="adpr:false;e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);" data-out="a:false;">
               <img src="{{asset('theme/rs-plugin/assets/dummy.png')}}" alt="Non Profit Wordpress Theme" title="zmain-slider-1.jpg')}}" width="1536" height="864" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{asset('theme/rs-plugin/assets/zmain-slider-1-1536x864.jpg')}}" data-parallax="5" data-no-retina>
               <!--							-->
-              <h1 id="slider-1-slide-1-layer-2" class="rs-layer Concept-Title" data-type="text" data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:10px,-26px,-10px,-33px;" data-text="w:normal,nowrap,nowrap,normal;s:54,50,45,30;l:52,55,50,40;ls:3px;fw:700;a:center;" data-dim="w:754px,699px,auto,400px;" data-padding="b:10;" data-frame_0="sX:2;sY:2;" data-frame_0_mask="u:t;" data-frame_1="e:power2.out;st:2110;sp:1270;sR:2110;" data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:5620;" data-frame_999_reverse="x:true;" style="z-index:10;font-family:'Poppins';text-transform:uppercase;">God gives us power </h1>
+              <h1 id="slider-1-slide-1-layer-2" class="rs-layer Concept-Title" data-type="text" data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:10px,-26px,-10px,-33px;" data-text="w:normal,nowrap,nowrap,normal;s:54,50,45,30;l:52,55,50,40;ls:3px;fw:700;a:center;" data-dim="w:754px,699px,auto,400px;" data-padding="b:10;" data-frame_0="sX:2;sY:2;" data-frame_0_mask="u:t;" data-frame_1="e:power2.out;st:2110;sp:1270;sR:2110;" data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:5620;" data-frame_999_reverse="x:true;" style="z-index:10;font-family:'Poppins';text-transform:uppercase;">Welcome to <br> Deliverence Church Lower Kabete </h1>
               <!--							-->
-              <rs-layer id="slider-1-slide-1-layer-4" class="Concept-SubTitle" data-type="text" data-color="" data-rsp_ch="on" data-xy="x:c;y:m;yo:-42px,-83px,-64px,-71px;" data-text="w:normal,nowrap,nowrap,nowrap;s:21,20,20,15;l:21,25,20,20;fw:700;a:center,left,left,left;" data-dim="w:408px,auto,auto,auto;" data-padding="b:10;" data-frame_0="o:1;" data-frame_0_chars="d:5;y:100%;o:0;rZ:-35deg;" data-frame_0_mask="u:t;" data-frame_1="st:640;sp:1200;sR:640;" data-frame_1_chars="e:power4.inOut;d:10;rZ:0deg;" data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:4960;" data-frame_999_reverse="x:true;" style="z-index:11;font-family:'Open Sans';text-transform:uppercase;">we help you get things done </rs-layer>
+              {{-- <rs-layer id="slider-1-slide-1-layer-4" class="Concept-SubTitle" data-type="text" data-color="" data-rsp_ch="on" data-xy="x:c;y:m;yo:-42px,-83px,-64px,-71px;" data-text="w:normal,nowrap,nowrap,nowrap;s:21,20,20,15;l:21,25,20,20;fw:700;a:center,left,left,left;" data-dim="w:408px,auto,auto,auto;" data-padding="b:10;" data-frame_0="o:1;" data-frame_0_chars="d:5;y:100%;o:0;rZ:-35deg;" data-frame_0_mask="u:t;" data-frame_1="st:640;sp:1200;sR:640;" data-frame_1_chars="e:power4.inOut;d:10;rZ:0deg;" data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:4960;" data-frame_999_reverse="x:true;" style="z-index:11;font-family:'Open Sans';text-transform:uppercase; color:#ffffff !important">Welcome to </rs-layer> --}}
               <!--							-->
-              <rs-layer id="slider-1-slide-1-layer-14" data-type="text" data-rsp_ch="on" data-xy="x:c;y:m,t,t,t;yo:78px,286px,271px,233px;" data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;" data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;" data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;" style="z-index:9;font-family:'Open Sans';">Jesus is holy, loving, and worthy of all our worship and devotion. You will feel heaven in our DCLK Church. Join us and Praise the Lord Jesus. </rs-layer>
+              {{-- <rs-layer id="slider-1-slide-1-layer-14" data-type="text" data-rsp_ch="on" data-xy="x:c;y:m,t,t,t;yo:78px,286px,271px,233px;" data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;" data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;" data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;" style="z-index:9;font-family:'Open Sans';">Jesus is holy, loving, and worthy of all our worship and devotion. You will feel heaven in our DCLK Church. Join us and Praise the Lord Jesus. </rs-layer> --}}
               <!--							-->
-              <rs-layer id="slider-1-slide-1-layer-16" class="res-slide-btn pop rev-btn" data-type="button" data-color="rgba(255,255,255,1)" data-xy="x:c;y:m;yo:162px,130px,128px,117px;" data-text="s:16,16,14,14;l:17;fw:500;a:center;" data-rsp_bd="off" data-padding="t:15,15,10,10;r:35,35,25,25;b:15,15,10,10;l:35,35,25,25;" data-border="bor:3px,3px,3px,3px;" data-frame_0="rX:-70deg;oZ:-50;" data-frame_1="oZ:-50;e:power4.inOut;st:3160;sp:1750;" data-frame_999="o:0;st:w;sR:4640;" data-frame_hover="bgc:#000;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;" style="z-index:8;font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">Contact Us </rs-layer>
+              <rs-layer id="slider-1-slide-1-layer-16" class="res-slide-btn pop rev-btn" data-type="button" data-color="rgba(255,255,255,1)" data-xy="x:c;y:m;yo:162px,130px,128px,117px;" data-text="s:16,16,14,14;l:17;fw:500;a:center;" data-rsp_bd="off" data-padding="t:15,15,10,10;r:35,35,25,25;b:15,15,10,10;l:35,35,25,25;" data-border="bor:3px,3px,3px,3px;" data-frame_0="rX:-70deg;oZ:-50;" data-frame_1="oZ:-50;e:power4.inOut;st:3160;sp:1750;" data-frame_999="o:0;st:w;sR:4640;" data-frame_hover="bgc:#000;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;" style="z-index:8;font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">Sermons <span class="ti-book"></span> </rs-layer>
               <!--							-->
               <rs-layer id="slider-1-slide-1-layer-21" data-type="image" data-rsp_ch="on" data-xy="x:c;yo:228px,95px,91px,90px;" data-text="w:normal;s:20,16,12,7;l:0,20,15,9;" data-dim="w:67px,60px,56px,45px;h:67px,60px,56px,45px;" data-frame_0="x:100%;" data-frame_0_mask="u:t;" data-frame_1="st:210;sp:1000;sR:210;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:7790;" style="z-index:12;">
                 <img src="{{asset('theme/rs-plugin/assets/dummy.png')}}" alt="Non Profit Wordpress Theme" class="tp-rs-img rs-lazyload" width="80" height="80" data-lazyload="{{asset('theme/rs-plugin/assets/dove.png')}}" data-no-retina>
@@ -374,8 +374,8 @@
                       <div class="about-wrap-details">
                         <!-- about button -->
                         <div class="text-center">
-                          <div class="about-img bf-pattern mb-5 mb-xl-0">
-                            <img src="{{asset('theme/images/about-us/about-1.jpg')}}" class="" alt="about-img">
+                          <div class="about-img module-border-wrap">
+                            <img src="{{url('/')}}/uploads/407438200_742613091237569_7945510447755972781_n.jpg" class="about-image module" alt="about-img">
                           </div>
                           <!-- .col -->
                         </div>
@@ -399,42 +399,7 @@
                       <p class="styled-text">The name of the Lord is a strong tower; the righteous run into it and are safe.</p>
                     </div>
                   </div>
-                  <div class="row">
-                    <!-- Feature Box -->
-                    <div class="col-md-6">
-                      <div class="feature-box-wrap f-box-style-1 mb-md-0 mb-sm-4 relative">
-                        <div class="feature-box-details">
-                          <div class="feature-icon margin-bottom-25">
-                            <span class="ti-heart b-radius-50 d-block"></span>
-                          </div>
-                          <div class="feature-content">
-                            <div class="feature-title relative margin-bottom-15">
-                              <h4>Place Of Heaven</h4>
-                            </div>
-                            <p class="mb-0">In DCLK you will feel divinity, piety, goodness, faith or right beliefs.</p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!-- Feature Box End -->
-                    <!-- Feature Box -->
-                    <div class="col-md-6">
-                      <div class="feature-box-wrap f-box-style-1 relative">
-                        <div class="feature-box-details">
-                          <div class="feature-icon margin-bottom-25">
-                            <span class="ti-book b-radius-50 d-block"></span>
-                          </div>
-                          <div class="feature-content">
-                            <div class="feature-title relative margin-bottom-15">
-                              <h4>Study Bible</h4>
-                            </div>
-                            <p class="mb-0">Learn the Bible enhance your wisdom, give you boldness about your faith.</p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!-- Feature Box End -->
-                  </div>
+
                   <div class="button-section margin-top-35">
                     <a class="btn btn-default" href="about-us.html" title="Learn More">Learn More</a>
                   </div>
@@ -447,7 +412,7 @@
           </section>
           <!-- About Section End -->
           <!-- Get a Quote Section -->
-          <section id="get-quote-section" class="get-quote-section section-bg-img" data-bg="images/bg/bg-1.jpg')}}">
+          <section id="get-quote-section" class="get-quote-section section-bg-img" data-bg="{{asset('theme/images/bg/bg-1.jpg')}}">
             <div class="container">
               <!-- Row -->
               <div class="row text-center">
@@ -462,7 +427,7 @@
                         <div class="video-play-btn text-center">
                           <div class="video-icon">
                             <a class="popup-youtube box-shadow1" href="https://www.youtube.com/watch?v=e1l1-LWTcBs">
-                              <i class="ti-heart"></i>
+                              <i class="ti-video-camera"></i>
                             </a>
                           </div>
                         </div>
@@ -476,7 +441,7 @@
                         <span class="dancing-text">Real Story Cross Journey from Anna Hampton</span>
                       </div>
                       <div class="get-quote-btn">
-                        <a class="btn btn-default" href="donate-now.html" title="Donate Online">Donate Online</a>
+                        <a class="btn btn-default" href="donate-now.html" title="Donate Online">Watch</a>
                       </div>
                     </div>
                   </div>
@@ -597,7 +562,7 @@
                         <div class="ministries-content pad-30">
                           <div class="ministries-title margin-bottom-15">
                             <h4>
-                              <a href="music-ministry.html" class="ministries-link">Music Ministry</a>
+                              <a href="music-ministry.html" class="ministries-link">Men Ministry</a>
                             </h4>
                           </div>
                           <div class="ministries-desc">
@@ -612,6 +577,33 @@
                     </div>
                   </div>
                   <!--Item Ends-->
+                    <!--Item-->
+                    <div class="item">
+                        <div class="ministries-box-style-2">
+                            <!-- Ministries Inner -->
+                            <div class="ministries-inner">
+                            <div class="ministries-thumb">
+                                <img class="img-fluid squared w-100" src="{{asset('theme/images/ministries/music_ministry.jpg')}}" width="360" height="240" alt="Agricultural Processing">
+                            </div>
+                            <!-- Ministries Content -->
+                            <div class="ministries-content pad-30">
+                                <div class="ministries-title margin-bottom-15">
+                                <h4>
+                                    <a href="music-ministry.html" class="ministries-link">Media Ministry</a>
+                                </h4>
+                                </div>
+                                <div class="ministries-desc">
+                                <p>Music is something we get exposed to from childhood through adulthood. From the pattering sounds from raindrops</p>
+                                </div>
+                                <div class="ministries-link margin-top-20">
+                                <a target="_blank" href="music-ministry.html" class="link">Read More</a>
+                                </div>
+                            </div>
+                            </div>
+                            <!-- Ministries Inner Ends -->
+                        </div>
+                    </div>
+                    <!--Item Ends-->
                 </div>
                 <!--Ministries Owl Slider-->
               </div>
@@ -621,7 +613,7 @@
           </section>
           <!-- Ministries Section End -->
           <!-- Contact Section -->
-          <section class="contact-form-section typo-white section-bg-img o-visible pad-top-80 pad-bottom-160" data-bg="images/bg/bg-2.jpg')}}">
+          <section class="contact-form-section typo-white section-bg-img o-visible pad-top-80 pad-bottom-160" data-bg="{{asset('theme/images/bg/bg-2.jpg')}}">
             <div class="shape-bottom" data-negative="false">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
                 <path class="shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"></path>
