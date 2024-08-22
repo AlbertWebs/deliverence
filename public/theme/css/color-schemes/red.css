@@ -61,7 +61,8 @@ a.comment-reply-link i, .blog-link .link:hover,
 ul.nav.navbar-main.theme-main-menu > li > a.active, .navbar ul.nav.navbar-main.menu-white > li.active > a, .bg-dark .dropdown-menu > li.active > a,
 .dropdown-menu > li.active > a, .navbar ul.nav.navbar-main.menu-white > li.active > a:hover,
 .header-sticky .navbar ul.nav.navbar-main.menu-white > li.active > a {
-	color: #002941;
+	/* color: #002941; */
+    /* border:1px solid #ffffff; */
 }
 .mega-dropdown .dropdown-menu > li > ul > li > a:hover,
 .bg-dark .mega-dropdown .dropdown-menu > li > ul > li > a:hover,

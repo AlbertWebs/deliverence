@@ -20,8 +20,8 @@
                   </ul>
                   <ul class="nav mobile-header-items pull-center">
                     <li>
-                      <a href="index.html" class="img-before">
-                        <img src="{{asset('theme/images/logo-dark.png')}}" class="img-fluid changeable-dark" width="149" height="45" alt="Logo">
+                      <a href="{{url('/')}}" class="img-before">
+                        <img src="{{asset('uploads/logo.png')}}" class="img-fluid changeable-dark" style="height:65px" alt="Deliverance Church Lower Kabete">
                       </a>
                     </li>
                   </ul>
@@ -105,11 +105,11 @@
                     <!--Overlay Menu Switch-->
                     <ul class="nav navbar-items pull-left">
                       <li class="list-item">
-                        <a href="index.html" class="logo-general">
-                          <img src="{{asset('theme/images/logo-light.png')}}" class="img-fluid changeable-light" width="166" height="50" alt="Logo" />
+                        <a href="{{url('/')}}" class="logo-general">
+                          <img src="{{asset('uploads/logo.png')}}" class="img-fluid changeable-light" style="height:70px;" alt="Logo" />
                         </a>
-                        <a href="index.html" class="logo-sticky">
-                          <img src="{{asset('theme/images/logo-dark.png')}}" class="img-fluid changeable-dark" width="166" height="50" alt="Logo" />
+                        <a href="{{url('/')}}" class="logo-sticky">
+                          <img src="{{asset('uploads/logo.png')}}" class="img-fluid changeable-dark" style="height:70px;" alt="Logo" />
                         </a>
                       </li>
                     </ul>
@@ -119,7 +119,7 @@
                       <li class="list-item">
                         <ul class="nav navbar-main menu-white">
                           <li class="active">
-                            <a href="index.html">Home</a>
+                            <a href="{{url('/')}}">Home</a>
                           </li>
 
                           <li>
@@ -204,9 +204,9 @@
               <!--							-->
               <h1 id="slider-1-slide-1-layer-2" class="rs-layer Concept-Title" data-type="text" data-color="#ffffff||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)||rgba(255, 255, 255, 1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:10px,-26px,-10px,-33px;" data-text="w:normal,nowrap,nowrap,normal;s:54,50,45,30;l:52,55,50,40;ls:3px;fw:700;a:center;" data-dim="w:754px,699px,auto,400px;" data-padding="b:10;" data-frame_0="sX:2;sY:2;" data-frame_0_mask="u:t;" data-frame_1="e:power2.out;st:2110;sp:1270;sR:2110;" data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:5620;" data-frame_999_reverse="x:true;" style="z-index:10;font-family:'Poppins';text-transform:uppercase;">Welcome to <br> Deliverence Church Lower Kabete </h1>
               <!--							-->
-              {{-- <rs-layer id="slider-1-slide-1-layer-4" class="Concept-SubTitle" data-type="text" data-color="" data-rsp_ch="on" data-xy="x:c;y:m;yo:-42px,-83px,-64px,-71px;" data-text="w:normal,nowrap,nowrap,nowrap;s:21,20,20,15;l:21,25,20,20;fw:700;a:center,left,left,left;" data-dim="w:408px,auto,auto,auto;" data-padding="b:10;" data-frame_0="o:1;" data-frame_0_chars="d:5;y:100%;o:0;rZ:-35deg;" data-frame_0_mask="u:t;" data-frame_1="st:640;sp:1200;sR:640;" data-frame_1_chars="e:power4.inOut;d:10;rZ:0deg;" data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:4960;" data-frame_999_reverse="x:true;" style="z-index:11;font-family:'Open Sans';text-transform:uppercase; color:#ffffff !important">Welcome to </rs-layer> --}}
+              {{-- <rs-layer id="slider-1-slide-1-layer-4" class="Concept-SubTitle" data-type="text" data-color="" data-rsp_ch="on" data-xy="x:c;y:m;yo:-42px,-83px,-64px,-71px;" data-text="w:normal,nowrap,nowrap,nowrap;s:21,20,20,15;l:21,25,20,20;fw:700;a:center,left,left,left;" data-dim="w:408px,auto,auto,auto;" data-padding="b:10;" data-frame_0="o:1;" data-frame_0_chars="d:5;y:100%;o:0;rZ:-35deg;" data-frame_0_mask="u:t;" data-frame_1="st:640;sp:1200;sR:640;" data-frame_1_chars="e:power4.inOut;d:10;rZ:0deg;" data-frame_1_mask="u:t;" data-frame_999="x:left;e:power3.in;st:w;sp:1000;sR:4960;" data-frame_999_reverse="x:true;" style="z-index:11;font-family:'Open Sans';text-transform:uppercase; color:#ffffff !important">Royal Celebration Center</rs-layer> --}}
               <!--							-->
-              {{-- <rs-layer id="slider-1-slide-1-layer-14" data-type="text" data-rsp_ch="on" data-xy="x:c;y:m,t,t,t;yo:78px,286px,271px,233px;" data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;" data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;" data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;" style="z-index:9;font-family:'Open Sans';">Jesus is holy, loving, and worthy of all our worship and devotion. You will feel heaven in our DCLK Church. Join us and Praise the Lord Jesus. </rs-layer> --}}
+              {{-- <rs-layer id="slider-1-slide-1-layer-14" data-type="text" data-rsp_ch="on" data-xy="x:c;y:m,t,t,t;yo:78px,286px,271px,233px;" data-text="w:normal;s:18,18,16,15;l:31,30,30,27;a:center;" data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;" data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;" style="z-index:9;font-family:'Open Sans';"> Royal Celebration Center </rs-layer> --}}
               <!--							-->
               <rs-layer id="slider-1-slide-1-layer-16" class="res-slide-btn pop rev-btn" data-type="button" data-color="rgba(255,255,255,1)" data-xy="x:c;y:m;yo:162px,130px,128px,117px;" data-text="s:16,16,14,14;l:17;fw:500;a:center;" data-rsp_bd="off" data-padding="t:15,15,10,10;r:35,35,25,25;b:15,15,10,10;l:35,35,25,25;" data-border="bor:3px,3px,3px,3px;" data-frame_0="rX:-70deg;oZ:-50;" data-frame_1="oZ:-50;e:power4.inOut;st:3160;sp:1750;" data-frame_999="o:0;st:w;sR:4640;" data-frame_hover="bgc:#000;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;" style="z-index:8;font-family:'Poppins';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">Sermons <span class="ti-book"></span> </rs-layer>
               <!--							-->
@@ -390,13 +390,15 @@
                 <div class="col-xl-6 px-3 ps-xl-0">
                   <div class="title-wrap margin-bottom-30">
                     <div class="section-title">
-                      <span class="sub-title theme-color text-uppercase">About Us</span>
-                      <h2 class="section-title margin-top-5">We are Taking Small Steps to Make Earth Better Planet</h2>
+                      <span class="sub-title theme-color text-uppercase">The Royal Celebration Center</span>
+                      <h2 class="section-title margin-top-5">Welcome to DCLK where everybody is somebody and Christ is lord</h2>
                       <span class="border-bottom"></span>
                     </div>
                     <div class="pad-top-15">
-                      <p class="margin-bottom-20">We welcome you with great joy to DCLK Church. We are here to share the great news of Jesus Christ to all that will listen.</p>
-                      <p class="styled-text">The name of the Lord is a strong tower; the righteous run into it and are safe.</p>
+                      <p class="margin-bottom-20">
+                        Welcome to Deliverance Church Lower Kabete, where every individual matters, and Christ reigns supreme. Here, we celebrate each person's unique value and the lordship of Jesus Christ in our lives.
+                      </p>
+                      <p class="styled-text">Theme of the Year:</p>
                     </div>
                   </div>
 
@@ -412,7 +414,7 @@
           </section>
           <!-- About Section End -->
           <!-- Get a Quote Section -->
-          <section id="get-quote-section" class="get-quote-section section-bg-img" data-bg="{{asset('theme/images/bg/bg-1.jpg')}}">
+          <section id="get-quote-section" class="get-quote-section section-bg-img" data-bg="{{asset('theme/images/bg/bg-1.jpg')}}" style="border: 4px solid #d4af37">
             <div class="container">
               <!-- Row -->
               <div class="row text-center">
@@ -613,7 +615,7 @@
           </section>
           <!-- Ministries Section End -->
           <!-- Contact Section -->
-          <section class="contact-form-section typo-white section-bg-img o-visible pad-top-80 pad-bottom-160" data-bg="{{asset('theme/images/bg/bg-2.jpg')}}">
+          <section class="contact-form-section typo-white section-bg-img o-visible pad-top-80 pad-bottom-160" data-bg="{{asset('uploads/2024-06-23-modified.jpg')}}">
             <div class="shape-bottom" data-negative="false">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
                 <path class="shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"></path>
@@ -626,31 +628,31 @@
                 <!-- col -->
                 <div class="col-xl-4 pe-xl-4 pb-5 pb-xl-0">
                   <div class="flip-box broken-top-115 verticalMove">
-                    <div class="flip-box-inner imghvr-flip-3d-horz">
-                      <div class="flip-box-front">
+                    <div class="flip-box-inner imghvr-flip-3d-horz" >
+                      <div class="flip-box-front" style="border: 4px solid #d4af37">
                         <div class="flip-box-icon margin-bottom-40">
                           <span class="text-center flip-icon-middle ti-headphone-alt"></span>
                         </div>
-                        <h3 class="flip-box-title margin-bottom-30">Call Us</h3>
+                        <h3 class="flip-box-title margin-bottom-30">Reach Out</h3>
                         <div class="flip-content">
-                          <p>684 West College St. Sun City, USA.</p>
+                          <p>Riverside, Wangige, Off Gitaru Road.</p>
                           <p>
-                            <a href="tel:+8(123)985789">+8 (123) 985 789</a>
+                            <a href="tel:+254 (720) 000 000">+254 (720) 000 000</a>
                           </p>
                           <p>
-                            <a href="mailto:DCLKchurch@mail.com">DCLKchurch@mail.com</a>
+                            <a href="mailto:info@royalcelebrationcenter.org">info@royalcelebrationcenter.org</a>
                           </p>
                         </div>
                       </div>
                       <div class="flip-box-back">
-                        <h3 class="flip-box-title">Call Us</h3>
+                        <h3 class="flip-box-title">Reach Out</h3>
                         <div class="flip-content">
-                          <p>684 West College St. Sun City, USA.</p>
+                          <p>Riverside, Wangige, Off Gitaru Road.</p>
                           <p>
-                            <a href="tel:+8(123)985789">+8 (123) 985 789</a>
+                            <a href="tel:+254 (720) 000 000">+254 (720) 000 000</a>
                           </p>
                           <p>
-                            <a href="mailto:DCLKchurch@mail.com">DCLKchurch@mail.com</a>
+                            <a href="mailto:info@royalcelebrationcenter.org">info@royalcelebrationcenter.org</a>
                           </p>
                         </div>
                       </div>
@@ -662,16 +664,16 @@
                   <div class="section-title-wrapper">
                     <div class="title-wrap mb-0">
                       <div class="section-title">
-                        <span class="sub-title theme-color text-uppercase">Get In Touch</span>
-                        <h2 class="section-title margin-top-5">Don't hesitate Contact Us</h2>
+                        <span class="sub-title theme-colors text-uppercase  ti-location-pin"> </span>
+                        <h2 class="section-title margin-top-5">Deliverance Church Lower Kabete Royal Celebration Center</h2>
                         <span class="border-bottom"></span>
                       </div>
-                      <div class="pad-top-15">
+                      {{-- <div class="pad-top-15">
                         <p class="margin-bottom-10">Feel free to Contact Us. DCLK Church WP Theme comes with sermons, ministries, events, testimonies, staff members, church locations shortcodes to enhance your website.</p>
-                      </div>
+                      </div> --}}
                     </div>
                     <div class="button-section margin-top-25">
-                      <a class="btn btn-default" href="contact-us.html" title="Learn More">Contact Us</a>
+                      <a class="btn btn-default" href="https://g.co/kgs/eeDwjEX" title="Learn More"> <span class="ti-location-pin"> </span> Follow Pin</a>
                     </div>
                   </div>
                 </div>
@@ -680,162 +682,9 @@
             </div>
           </section>
           <!-- Contact Form Section End -->
-          <!-- Blog Section -->
-          <section class="blog-section pad-top-50 pad-bottom-95">
-            <div class="container">
-              <!-- Blog Wrap -->
-              <div class="row">
-                <div class="col-md-12">
-                  <div class="title-wrap text-center">
-                    <div class="section-title">
-                      <span class="sub-title theme-color text-uppercase">Our Blog</span>
-                      <h2 class="section-title margin-top-5">Latest Posts</h2>
-                      <span class="border-bottom center"></span>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <!--Blog Main Slider-->
-                    <div class="owl-carousel blog-main-wrapper blog-style-1" data-loop="1" data-nav="0" data-dots="1" data-autoplay="0" data-autoplaypause="1" data-autoplaytime="5000" data-smartspeed="1000" data-margin="30" data-items="3" data-items-tab="2" data-items-mob="1">
-                      <!--Item-->
-                      <div class="item">
-                        <!--Blog Inner-->
-                        <div class="blog-inner">
-                          <div class="blog-thumb relative">
-                            <img src="{{asset('theme/images/blog/blog-grid/blog-grid1.jpg')}}" class="img-fluid" width="768" height="600" alt="blog-img" />
-                            <div class="top-meta">
-                              <ul class="top-meta-list">
-                                <li>
-                                  <div class="post-date">
-                                    <a href="blog-single.html">
-                                      <i class="ti-calendar"></i> Oct 21, 2019 </a>
-                                  </div>
-                                </li>
-                              </ul>
-                            </div>
-                          </div>
-                          <div class="blog-details">
-                            <div class="blog-title">
-                              <h4 class="margin-bottom-10">
-                                <a href="blog-single.html" class="blog-name">Giving Back – Uganda Training Centers</a>
-                              </h4>
-                            </div>
-                            <div class="post-desc mt-2">
-                              <div class="blog-link">
-                                <a target="_blank" href="blog-single.html" class="link font-w-500">Read More</a>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <!--Blog Inner Ends-->
-                      </div>
-                      <!--Item Ends-->
-                      <!--Item-->
-                      <div class="item">
-                        <!--Blog Inner-->
-                        <div class="blog-inner">
-                          <div class="blog-thumb relative">
-                            <img src="{{asset('theme/images/blog/blog-grid/blog-grid2.jpg')}}" class="img-fluid" width="768" height="600" alt="blog-img" />
-                            <div class="top-meta">
-                              <ul class="top-meta-list">
-                                <li>
-                                  <div class="post-date">
-                                    <a href="blog-single.html">
-                                      <i class="ti-calendar"></i> Oct 21, 2019 </a>
-                                  </div>
-                                </li>
-                              </ul>
-                            </div>
-                          </div>
-                          <div class="blog-details">
-                            <div class="blog-title">
-                              <h4 class="margin-bottom-10">
-                                <a href="blog-single.html" class="blog-name">Spirit Of The Lord Is, From The New Life</a>
-                              </h4>
-                            </div>
-                            <div class="post-desc mt-2">
-                              <div class="blog-link">
-                                <a target="_blank" href="blog-single.html" class="link font-w-500">Read More</a>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <!--Blog Inner Ends-->
-                      </div>
-                      <!--Item Ends-->
-                      <!--Item-->
-                      <div class="item">
-                        <!--Blog Inner-->
-                        <div class="blog-inner">
-                          <div class="blog-thumb relative">
-                            <img src="{{asset('theme/images/blog/blog-grid/blog-grid3.jpg')}}" class="img-fluid" width="768" height="600" alt="blog-img" />
-                            <div class="top-meta">
-                              <ul class="top-meta-list">
-                                <li>
-                                  <div class="post-date">
-                                    <a href="blog-single.html">
-                                      <i class="ti-calendar"></i> Oct 20, 2019 </a>
-                                  </div>
-                                </li>
-                              </ul>
-                            </div>
-                          </div>
-                          <div class="blog-details">
-                            <div class="blog-title">
-                              <h4 class="margin-bottom-10">
-                                <a href="blog-single.html" class="blog-name">Help End the Water Crisis For Families</a>
-                              </h4>
-                            </div>
-                            <div class="post-desc mt-2">
-                              <div class="blog-link">
-                                <a target="_blank" href="blog-single.html" class="link font-w-500">Read More</a>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <!--Blog Inner Ends-->
-                      </div>
-                      <!--Item Ends-->
-                      <!--Item-->
-                      <div class="item">
-                        <!--Blog Inner-->
-                        <div class="blog-inner">
-                          <div class="blog-thumb relative">
-                            <img src="{{asset('theme/images/blog/blog-grid/blog-grid4.jpg')}}" class="img-fluid" width="768" height="600" alt="blog-img" />
-                            <div class="top-meta">
-                              <ul class="top-meta-list">
-                                <li>
-                                  <div class="post-date">
-                                    <a href="blog-single.html">
-                                      <i class="ti-calendar"></i> Oct 19, 2019 </a>
-                                  </div>
-                                </li>
-                              </ul>
-                            </div>
-                          </div>
-                          <div class="blog-details">
-                            <div class="blog-title">
-                              <h4 class="margin-bottom-10">
-                                <a href="blog-single.html" class="blog-name">Pray for Help to Save Mattia’s Life</a>
-                              </h4>
-                            </div>
-                            <div class="post-desc mt-2">
-                              <div class="blog-link">
-                                <a target="_blank" href="blog-single.html" class="link font-w-500">Read More</a>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <!--Blog Inner Ends-->
-                      </div>
-                      <!--Item Ends-->
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <!-- Blog Wrap -->
-            </div>
-          </section>
-          <!-- Blog Section End -->
+          <!-- Sermons Section -->
+        @include('front.sermons')
+          <!-- Sermons Section End -->
         </div>
       </div>
     </div>
